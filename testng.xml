@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/anduser/payserraTestTask">
         <classes>
-            <class name="com.paysera.test.CurrencyConversionCalculatorTest"></class>
+            <class name="com.pays.test.CurrencyConversionCalculatorTest"></class>
         </classes>
     </test>
 </suite>

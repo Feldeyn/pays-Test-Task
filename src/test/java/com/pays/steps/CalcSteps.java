@@ -1,4 +1,4 @@
-package com.paysera.steps;
+package com.pays.steps;
 
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;

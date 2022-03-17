@@ -1,8 +1,8 @@
-package com.paysera.steps;
+package com.pays.steps;
 
-import com.paysera.pages.AcceptCookieFilePage;
-import com.paysera.pages.CurrencyConversionCalculatorPage;
-import com.paysera.pages.FooterCurrencyCalulatorPage;
+import com.pays.pages.AcceptCookieFilePage;
+import com.pays.pages.CurrencyConversionCalculatorPage;
+import com.pays.pages.FooterCurrencyCalulatorPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;

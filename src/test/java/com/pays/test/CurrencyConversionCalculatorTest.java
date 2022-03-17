@@ -1,6 +1,6 @@
-package com.paysera.test;
+package com.pays.test;
 
-import com.paysera.steps.CalcSteps;
+import com.pays.steps.CalcSteps;
 import org.testng.annotations.Test;
 
 

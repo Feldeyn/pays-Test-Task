@@ -1,4 +1,4 @@
-package com.paysera.pages;
+package com.pays.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
